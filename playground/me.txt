@@ -1,5 +1,0 @@
-{{#user}}
-Name: Althaf
-Skills:  HTML, CSS, JavaScript, React, Python, Java, Tensor Flow, Matlab
-Email: test@gmail.com 
-{{/user}}
